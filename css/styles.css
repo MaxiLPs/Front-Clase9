@@ -1,0 +1,69 @@
+*{
+    font-family: 'Roboto', sans-serif;
+}
+
+.bg-color-principal{
+    background-color: #F0A83E;
+}
+
+.bg-color-secundario{
+    background-color: #3C2313;
+}
+
+.txt-color-principal{
+    color: #F0A83E;
+}
+
+.txt-color-secundario{
+    color: #3C2313;
+}
+
+.txt-color-terciario{
+    color:white
+}
+
+.txt-color-footer{
+    color:grey;
+}
+
+header div{
+    background-color: black;
+}
+
+ul{
+    list-style: none;
+}
+
+section.bienvenida{
+    width: 100%;
+    height: 500px;
+    background-image: url(../img/Fondo.png);
+    background-size: cover;
+}
+
+.centrado{
+    text-align: center;
+}
+
+.destacado{
+    background-color: white;
+    text-transform: uppercase;
+}
+
+.bienvenida .boton{
+    text-transform: uppercase;
+    border-radius: 5px;
+}
+
+.prod-destacados div .fas{
+    font-size: 150px;
+}
+.prod-destacados div .titulo{
+    font-weight: 900;
+    font-size: larger;
+    text-transform: uppercase;
+}
+
+footer .fas, .far{
+    font-size: 60px;
+}
